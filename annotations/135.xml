@@ -1,0 +1,26 @@
+<annotation>
+	<folder>smaller doors in order</folder>
+	<filename>135.jpg</filename>
+	<path>C:\Users\annak\Desktop\doors collection\smaller doors in order\135.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>576</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>door</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>178</xmin>
+			<ymin>50</ymin>
+			<xmax>439</xmax>
+			<ymax>737</ymax>
+		</bndbox>
+	</object>
+</annotation>
